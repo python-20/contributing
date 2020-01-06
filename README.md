@@ -5,8 +5,7 @@ Before starting, [read our organization's projects](https://github.com/orgs/pyth
 
 DO NOT COMMIT DIRECTLY TO BRANCH Master, instead,
 
-* Fork our project
-* Clone the fork onto your computer
+* Clone the repo
 * Edit the code
 * Create a pull request 
 
